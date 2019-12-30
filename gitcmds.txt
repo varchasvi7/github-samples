@@ -1,0 +1,85 @@
+    1  exit
+    2  cd desktop
+    3  cd batch2
+    4  cd crtbatch2
+    5  ls --
+    6  ls data.txt
+    7  ls
+    8  ls
+    9  git init
+   10  git commit -m"first commit"
+   11  ls
+   12  cd ..
+   13  ls
+   14  cd Desktop
+   15  cd Desktop.ini
+   16  pws
+   17  pwd
+   18  cd Desktop
+   19  ls
+   20  cd Default User
+   21  path Deskto
+   22  path Desktop
+   23  /c/Users
+   24  cd ../cd/Users
+   25  cd Desktop
+   26  ls
+   27  mkdir gitsamples
+   28  cd gitsamples
+   29  ls
+   30  pwd
+   31  git init
+   32  ls
+   33  ls -a
+   34  git clone https://github.com/varchasvi7/github-samples
+   35  ls
+   36  cd github-samples-master
+   37  ls
+   38  ls -a
+   39  ls
+   40  cat hello.txt
+   41  cat hello
+   42  echo hello.txt
+   43  ls
+   44  cat README.md
+   45  ls
+   46  echo hello.txt
+   47  cat hello.txt
+   48  touch Data.txt
+   49  ls
+   50  cat Data.txt
+   51  clear
+   52  ls
+   53  echo "Line 1" > Data.txt 
+   54  cat Data.txt
+   55  echo" something is great" > DAta.txt
+   56  echo" something is great" > Data.txt
+   57  echo "something is great" > Data.txt
+   58  cat Data.txt
+   59  ls
+   60  gedit Data.txt
+   61  nao Data.xxt
+   62  nano Data.xxt
+   63  nano Data.xxt
+   64  y
+   65  echo {1..10}
+   66  echo {a..z}
+   67  git --version
+   68  git config --global user.email "madishettyanilkumar9@gmail.com"
+   69  l
+   70  ls
+   71  git remote help
+   72  git remote add CRT-Program https://github.com/Anil-a431/CRT-Program
+   73  git status
+   74  git add Data.txt
+   75  git status
+   76  git push -u Data
+   77  git push --set-upstream Data master
+   78  git push --set-upstream Data master
+   79  git remote -v https://github.com/varchasvi7/github-samples.git
+   80  git remote show
+   81  history
+   82     81
+   83  hostory
+   84  history
+   85  history > gitcmds.txt
